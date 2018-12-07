@@ -8,12 +8,12 @@ permalink: /team/
 
 # Group Members
 
- **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are  looking for new PhD students, Postdocs, and a Lab Technician to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [lab visitors](#lab-visitors).
+Jump to [PI](#pi), [Postdocs](#postdocs), [Graduate Students](#graduate-students), [Undergraduates](#undergraduates).
 
-## Staff
+## PI
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -75,11 +75,12 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 {% endif %}
 
+## Postdocs
 
+**Coming Soon**
 
-
-## Master and Bachelor Students
-{% assign number_printed = 0 %}
+## Graduate Students
+<!--{% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
@@ -130,6 +131,62 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% if even_odd == 1 %}
 </div>
 {% endif %}
+-->
+
+**We are recruiting graduate students for Fall 2019**
+
+## Undergraduates
+{% assign number_printed = 0 %}
+{% for member in site.data.undergrads %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+  <h4>{{ member.name }}</h4>
+  <ul style="overflow: hidden">
+
+  {% if member.number_educ == 1 %}
+  <li> {{ member.education1 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 2 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 3 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 4 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  <li> {{ member.education4 }} </li>
+  {% endif %}
+
+  </ul>
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
 
 
 ## Alumni
@@ -165,7 +222,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 {% endif %}
 
-
+<!--
 <table align="center" style="width:100%">
  <tr>
     <th>Visitors</th>
@@ -213,3 +270,4 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
     <td>Daniëlle van Klink, Spring 2016</td>
   </tr>
 </table>
+-->

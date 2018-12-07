@@ -1,0 +1,23 @@
+#- name:
+#  photo: rock.jpg
+#  info:
+#  email:
+#  number_educ:
+#  education1:
+#  education2:
+#  education3:
+#  education4:
+
+- name: Bozhou Jin
+  photo: rock.jpg
+  info: 
+  number_educ: 2
+  education1: Project - Quantifying behavioral differences and sexual selection in D. melanogaster populations
+  education2: Biology Major, Cornell University
+
+- name: Sahana Natsan
+  photo: rock.jpg
+  info: 
+  number_educ: 2
+  education1: Project - The genetic basis on hybrid inviability
+  education2: Biology Major, Cornell University
