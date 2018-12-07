@@ -19,6 +19,15 @@
 #  highlight: 1
 #  news2: See also <a href="https://www.universiteitleiden.nl/en/news/2018/10/insulating-phenomenon-in-superconductor"> Leiden University news </a> by Erik #Arends, <a href="https://phys.org/news/2018-10-mysterious-insulating-phenomenon-superconductor.html"> Phys.org </a>
 
+- title: "Conspecific sperm precedence is reinforced but sexual selection weakened in sympatric populations of Drosophila"
+  image: dummy.png
+  description: ""
+  authors: DM Castillo, LC Moyle
+  link:
+    url: https://www.biorxiv.org/content/early/2017/10/10/071886
+    display: bioRxiv 071886 (in review)
+  highlight: 0
+  news2: ""
 
 - title: "Moving Speciation Genetics Forward: Modern Techniques Build on Foundational Studies in Drosophila"
   image: dummy.png
@@ -26,7 +35,126 @@
   authors: DM Castillo, DA Barbash
   link:
     url: http://www.genetics.org/content/207/3/825
-    display: Genetics 207:825-842
+    display: Genetics 207:825-842 (2017)
   highlight: 0
   news2: ""
 
+- title: "Factors contributing to the accumulation of reproductive isolation: A mixed model approach"
+  image: dummy.png
+  description: ""
+  authors: DM Castillo
+  link:
+    url: https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.3093
+    display: Ecology and Evolution(15):5808–5820 (2017)
+  highlight: 0
+  news2: ""
+
+- title: "Remating responses are consistent with male postcopulatory manipulation but not reinforcement in D. pseudoobscura"
+  image: dummy.png
+  description: ""
+  authors: JS Davis, DM Castillo, LC Moyle
+  link:
+    url: https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.2628
+    display: Ecology and evolution 7:507-515 (2017)
+  highlight: 0
+  news2: ""
+
+- title: "Male–female genotype interactions maintain variation in traits important for sexual interactions and reproductive isolation"
+  image: dummy.png
+  description: ""
+  authors: DM Castillo, LF Delph
+  link:
+    url:
+    display: Evolution 7:, 1667-1673 (2016)
+  highlight: 0
+  news2: ""
+
+- title: "Assortative mating and self-fertilization differ in their contributions to reinforcement, cascade speciation, and diversification"
+  image: dummy.png
+  description: ""
+  authors: DM Castillo, AK Gibson, LC Moyle
+  link:
+    url:
+    display: Current Zoology 62:169-181 (2016)
+  highlight: 0
+  news2: Invited Article
+
+- title: "Experimental evolution: Assortative mating and sexual selection, independent of local adaptation, lead to reproductive isolation in the nematode Caenorhabditis remanei"
+  image: dummy.png
+  description: ""
+  authors: DM Castillo, MK Burger, CM Lively, LF Delph
+  link:
+    url:
+    display: Evolution 69:3141-3155 (2015)
+  highlight: 0
+  news2: Melissa won Best Honors Thesis at Indiana University for her work on this project
+
+- title: "Intraspecific sperm competition genes enforce post-mating species barriers in Drosophila"
+  image: dummy.png
+  description: ""
+  authors: DM Castillo, LC Moyle
+  link:
+    url:
+    display: Proc. R. Soc. B 281:20142050 (2014)
+  highlight: 0
+  news2: First chapter of Dean's dissertation that was published
+
+- title: "Interactions between a pollinating seed predator and its host plant: the role of environmental context within a population"
+  image: dummy.png
+  description: ""
+  authors: AAR Kula, DM Castillo, MR Dudash, CB Fenster
+  link:
+    url:
+    display: Ecology and Evolution 4:2901-2912 (2014)
+  highlight: 0
+  news2: ""
+
+- title: "Invasive Silene latifolia May Benefit from a Native Pollinating Seed Predator, Hadena ectypa, in North America"
+  image: dummy.png
+  description: ""
+  authors: DM Castillo, AAR Kula, S Dötterl, MR Dudash, CB Fenster
+  link:
+    url:
+    display: International Journal of Plant Sciences 175:80-91 (2013)
+  highlight: 0
+  news2: ""
+
+- title: "Specialist pollinating seed predator exhibits oviposition strategy consistent with optimal oviposition theory"
+  image: dummy.png
+  description: ""
+  authors: DM Castillo, AAR Kula, KAD Fenster, CB Fenster, MR Dudash
+  link:
+    url:
+    display: Ecological Entomology 38:164-172 (2013)
+  highlight: 0
+  news2: ""
+
+- title: "Evolutionary implications of mechanistic models of TE-mediated hybrid incompatibility"
+  image: dummy.png
+  description: ""
+  authors: DM Castillo, LC Moyle
+  link:
+    url:
+    display: International Journal of Evolutionary Biology 2012 (2012)
+  highlight: 0
+  news2: Invited Review
+
+- title: "Molecular evolution under increasing transposable element burden in Drosophila: A speed limit on the evolutionary arms race"
+  image: dummy.png
+  description: ""
+  authors: DM Castillo, JC Mell, KS Box, JP Blumenstiel
+  link:
+    url:
+    display: BMC Evolutionary Biology 11:258 (2011)
+  highlight: 0
+  news2: ""
+
+- title: "Molecular evolution in bacterial endosymbionts of fungi"
+  image: dummy.png
+  description: ""
+  authors: DM Castillo, TE Pawlowska
+  link:
+    url:
+    display: Molecular Biology and Evolution 27:622-636 (2010)
+  highlight: 0
+  news2: Dean's Honors Thesis
