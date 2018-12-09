@@ -20,13 +20,13 @@
 #  news2: See also <a href="https://www.universiteitleiden.nl/en/news/2018/10/insulating-phenomenon-in-superconductor"> Leiden University news </a> by Erik #Arends, <a href="https://phys.org/news/2018-10-mysterious-insulating-phenomenon-superconductor.html"> Phys.org </a>
 
 - title: "Conspecific sperm precedence is reinforced but sexual selection weakened in sympatric populations of Drosophila"
-  image: dummy.png
-  description: ""
+  image: reinforcement.jpg
+  description: Reinforcement can have collateral affects on sexual selection only when there is a shared genetic basis. In this case the shared genetic basis includes genes that contribute to both conspecific sperm precedence and within population gamete interactions
   authors: DM Castillo, LC Moyle
   link:
     url: https://www.biorxiv.org/content/early/2017/10/10/071886
     display: bioRxiv 071886 (in review)
-  highlight: 0
+  highlight: 1
   news2: ""
 
 - title: "Moving Speciation Genetics Forward: Modern Techniques Build on Foundational Studies in Drosophila"
@@ -60,13 +60,13 @@
   news2: ""
 
 - title: "Male–female genotype interactions maintain variation in traits important for sexual interactions and reproductive isolation"
-  image: dummy.png
-  description: ""
+  image: worms.png
+  description: We demonstrate that female mating preference for specific male genotypes segregates in populations. This might explain how rapid speciation by sexual selection could occur
   authors: DM Castillo, LF Delph
   link:
     url:
     display: Evolution 7:, 1667-1673 (2016)
-  highlight: 0
+  highlight: 1
   news2: ""
 
 - title: "Assortative mating and self-fertilization differ in their contributions to reinforcement, cascade speciation, and diversification"
