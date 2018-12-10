@@ -10,7 +10,7 @@ permalink: /openings
 
 We are always looking to recruit talented students and researchers.
 
-As part of the lab, you will use cutting edge genetic techniques to help solve Darwin's "mystery of mysteries", the process by which new species are formed.
+To help solve Darwin's "mystery of mysteries", the process by which new species are formed, lab members receive training in a variety of tools/techniques including: the use cutting edge genetic techniques, genomics, behavioral observations, reproductive biology and gas-chromatography.
 
 
 ### Current open positions
