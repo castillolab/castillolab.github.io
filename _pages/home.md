@@ -50,7 +50,7 @@ We use an integrative approach combining population and molecular genetics with 
 
 
 
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/openings) **!**
+ **We are  looking for passionate new PhD students and Postdocs to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/openings) **!**
 
 
 
