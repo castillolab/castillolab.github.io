@@ -31,6 +31,8 @@ Interested individuals should email [Dean](mailto:dmc79@cornell.edu) with a brie
 It might be interesting to look at some past job advertisements. While the projects keep changing, the themes are still roughly the same. You can download them [here]({{ site.baseurl }}/downloads/PD.pdf), [here]({{ site.baseurl }}/downloads/PHD1.pdf), or [here]({{ site.baseurl }}/downloads/PHD2.pdf).-->
 
 ### Applications for Postdoc positions
+We are always interested in collabora
+
 We are recruiting a postdoc with a strong background and/or interest in evolutionary genetics, transcriptomics or proteomics and molecular genetics. The applicant will help develop tools to link genotypic and phenotypic evolution, to understand broadly how behavior and mating traits contribute to speciation and biodiversity. This position is flexible, and the postdoc will be encouraged to contribute to collaborate projects as well as continuing to develop their own research program using these techniques. 
 
 The ideal candidate will have demonstrable experience with the generation or analysis of genomic datasets and/or molecular genetics. Data management skills are essential. Applicants should also have evidence of their creativity and potential, including publications that demonstrate their skills in evolutionary genetics research.
