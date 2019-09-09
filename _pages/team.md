@@ -193,7 +193,7 @@ Jump to [PI](#pi), [Postdocs](#postdocs), [Graduate Students](#graduate-students
 {% endif %}
 -->
 
-**We are recruiting graduate students for Fall 2029**
+**We are recruiting graduate students for Fall 2020**
 
 ## Undergraduates
 {% assign number_printed = 0 %}
