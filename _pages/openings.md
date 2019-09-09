@@ -18,7 +18,7 @@ Graduate students can apply through two different programs within the [School of
 
 The School of Biological Sciences has a strong and growing community of [evolutionary geneticists](https://www.biology.utah.edu/research/interest.php?int=9) making it a great place for collaborative science.
 
-Before applying, interested students should email [Dean](mailto:dmc79@cornell.edu) to discuss which program they are best suited for. Informal questions about my lab and the graduate program at Utah are also welcome.
+Before applying, interested students should email [Dean](mailto:dean.castillo@utah.edu) to discuss which program they are best suited for. Informal questions about my lab and the graduate program at Utah are also welcome.
 
 
 <!--You find the current job openings here:
